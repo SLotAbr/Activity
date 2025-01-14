@@ -1,6 +1,6 @@
 | Title | Details |
 | - | :-: |
-| `0Vy6_test_task` | <img src="src/0Vy6_1.png.png"> <img src="src/0Vy6_2.png.png"> <hr> 13.12.2024 |
+| `0Vy6_test_task` | <img src="src/0Vy6_1.png"> <img src="src/0Vy6_2.png"> <hr> 13.12.2024 |
 | [`4H9k_test_task`](https://github.com/SLotAbr/4H9k_test_task) | 09.12.2024 |
 | `Shopify` | <img src="src/Shopify.png"> <hr> 11.11.2024 |
 | `Django_blog` | 21.10.2024 |
