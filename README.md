@@ -1,5 +1,6 @@
 | Title | Details |
 | - | :-: |
+| `FastAPI certification` | 29.01.2025 |
 | `0Vy6_test_task` | <img src="src/0Vy6_1.png"> <hr> <img src="src/0Vy6_2.png"> <hr> 13.12.2024 |
 | [`4H9k_test_task`](https://github.com/SLotAbr/4H9k_test_task) | 09.12.2024 |
 | `Shopify` | <img src="src/Shopify.png"> <hr> 11.11.2024 |
